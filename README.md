@@ -19,19 +19,19 @@ Section4. LangChainの応用（2/19）: https://liveai.connpass.com/event/308954
   
 なお、今回の講座でプログラミング言語Pythonの解説は最小限となりますが、Pythonの基礎を解説するノートブックを予め配布します。  
 Pythonの開発環境にはGoogle Colaboratoryを使用します。  
+
+### Udemyコース
+UdemyでAI関連のコースを複数展開しています。  
+https://www.sai-lab.co.jp/onlinecourse 
   
 ### 自由研究室 AIRS-Lab（コミュニティ）
 「AI」をテーマに交流し、創造するWeb上のコミュニティです。  
 https://www.airs-lab.jp/  
   
-### News! AIRS-Lab
-AIの話題、講義動画、Udemyコース割引などのAIRS-Lab最新コンテンツを配信します。  
+### 講師のnote
+AIの話題、講義動画、Udemyコース割引などのコンテンツを配信します。  
 https://note.com/yuky_az 
   
 ### AI教室 AIRS-Lab（YouTubeチャンネル）
 毎週月曜日21時に、YouTubeでライブ講義を開催しています。  
 https://www.youtube.com/channel/UCT_HwlT8bgYrpKrEvw0jH7Q  
-  
-### Udemyコース
-オンライン動画学習プラットフォームUdemyで、AI関連のコースを複数展開しています。  
-https://www.udemy.com/user/wo-qi-xing-chang/  
